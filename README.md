@@ -1,3 +1,3 @@
 # Algorithms
 
-A set of algorithms implemented in C++
+Lowest Common Algorithm of two nodes in binary tree implemented in C++.
