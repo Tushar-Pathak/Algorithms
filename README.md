@@ -1,6 +1,5 @@
 # Algorithms
 
-A set of algorithms implemented in C++
+Simple Implementation of knapsack and 0-1 knapsack in c++.
 
-Switch branches (^) to switch between different algorithms implemented.
 
